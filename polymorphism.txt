@@ -24,3 +24,9 @@ diff class
 www
 
 www
+
+
+Single Inheritence
+
+
+multiple inheritence
